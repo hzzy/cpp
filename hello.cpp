@@ -1,6 +1,8 @@
 #include <iostream>
+#include "AirPlain.cpp"
+
 using namespace std;
 
 int main(){
-    cout << "hello world" << endl;
+    zy::AirPlane ap;
 }
